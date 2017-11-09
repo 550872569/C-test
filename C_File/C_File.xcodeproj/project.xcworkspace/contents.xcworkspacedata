@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:yanhangpu.xcodeproj">
+      location = "self:C_File.xcodeproj">
    </FileRef>
 </Workspace>
