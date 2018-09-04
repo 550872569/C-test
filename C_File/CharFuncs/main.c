@@ -1,15 +1,16 @@
 //
 //  main.c
-//  C_File
+//  CharFuncs
 //
-//  Created by Yan on 2017/11/9.
+//  Created by Yan on 2017/11/28.
 //  Copyright © 2017年 YY. All rights reserved.
 //
 
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-
+    char str[] = {"China\nBeijing"};
+    gets(str);
+    puts(str);
     return 0;
 }
